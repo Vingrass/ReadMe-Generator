@@ -1,9 +1,9 @@
 
 # Project Title
-No
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+Read Me Generator
 
-You cant make me
+
+Generates a read me file based on user input
 
 # Table of Contents 
 * [Installation](#-Installation)
@@ -14,22 +14,22 @@ You cant make me
 * [Questions](#-Contact-Information)
     
 # Installation
-You cant
+run "node index.js" in the terminal
 
 # Usage
-it isnt
+This program is used to generate read me files
 
 # License 
-Boost Software 1.0
+None
 * As this license list was not comprehensive, if you need another license, use the contact information below to ask for license to be added. 
 
 # Contributing 
-they cant
+No contributions. This is a school project.
 
 # Tests
-N/A
+Testing is the same as using.
 
 # Contact Information 
 * GitHub Username: vingrass
-* Contact Email: billsmith8675@gmail.com
+* Contact Email: ingrassiav99@gmai.com
 
